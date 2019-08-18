@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-10T16:24:33.584-0300</date>
+  <logger>NATAN ATAIDE DE SOUZA</logger>
+  <level>FINE</level>
+  <message>File 118110521-NATAN ATAIDE DE SOUZA.zip was received. It was sent by NATAN ATAIDE DE SOUZA from IP 150.165.42.206 at 10-06-2019 16*24*33</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-10T23:18:18.802-0300</date>
+  <logger>NATAN ATAIDE DE SOUZA</logger>
+  <level>FINE</level>
+  <message>File 118110521-NATAN ATAIDE DE SOUZA.zip was received. It was sent by NATAN ATAIDE DE SOUZA from IP 192.168.1.103 at 10-06-2019 23*18*18</message>
+</record>
