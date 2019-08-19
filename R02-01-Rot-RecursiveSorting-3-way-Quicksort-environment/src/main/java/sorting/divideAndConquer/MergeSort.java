@@ -24,9 +24,9 @@ public class MergeSort<T extends Comparable<T>> extends AbstractSorting<T> {
 
 	private void merge(T[] array, int leftIndex, int metade, int rightIndex) {
 		T[] arrayAuxiliar = Arrays.copyOf(array, array.length);
-        for (int x = leftIndex; x <= rightIndex; x++){
-            arrayAuxiliar[x] = array[x];
-        }
+		for (int x = leftIndex; x <= rightIndex; x++){
+			arrayAuxiliar[x] = array[x];
+		}
 		int i = leftIndex;
 		int j = metade + 1;
 		for (int k = leftIndex; k <= rightIndex; k++){

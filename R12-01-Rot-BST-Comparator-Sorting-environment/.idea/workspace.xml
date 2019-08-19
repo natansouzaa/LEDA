@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63799952-d003-4b82-add2-305093d1c119" name="Default Changelist" comment="" />
+    <list default="true" id="63799952-d003-4b82-add2-305093d1c119" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R05-01-Rot-Pilha-FilaCircular-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R05-01-Rot-Pilha-FilaCircular-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R06-01-Rot-Linked-list-abordagem-iterativa-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R06-01-Rot-Linked-list-abordagem-iterativa-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R07-01-Rot-Linked-list-abordagem-recursiva-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R07-01-Rot-Linked-list-abordagem-recursiva-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R07-01-Rot-Linked-list-abordagem-recursiva-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R07-01-Rot-Linked-list-abordagem-recursiva-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R09-01-Rot-TabelaHash-EndAberto-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R09-01-Rot-TabelaHash-EndAberto-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R09-01-Rot-TabelaHash-EndAberto-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R09-01-Rot-TabelaHash-EndAberto-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R10-01-Rot-SetLinkedList-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R10-01-Rot-SetLinkedList-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R11-01-Rot-Arvore-Binaria-de-Busca-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R11-01-Rot-Arvore-Binaria-de-Busca-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/adt/bst/extended/SortComparatorBSTImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
@@ -43,6 +61,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="75" column="60" selection-start-line="74" selection-start-column="50" selection-end-line="75" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/adt/bst/extended/SortComparatorBST.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,6 +80,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,12 +99,12 @@
     <option name="width" value="1003" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,9 +192,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../R13-01-Rot-Heap-environment" />
   </component>
   <component name="RunDashboard">
@@ -215,9 +247,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentBSTTest - 2019.05.23 at 23h 37m 37s.xml">
-      <configuration name="StudentBSTTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentBSTTest - 2019.05.23 at 23h 54m 23s.xml">
       <configuration name="StudentBSTTest" configurationId="JUnit" />
     </history-entry>
@@ -245,11 +274,14 @@
     <history-entry file="StudentBSTTest - 2019.08.17 at 21h 48m 05s.xml">
       <configuration name="StudentBSTTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StudentBSTTest - 2019.08.18 at 21h 35m 26s.xml">
+      <configuration name="StudentBSTTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,13 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2057">
           <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="75" column="60" lean-forward="true" selection-start-line="74" selection-start-column="50" selection-end-line="75" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -349,6 +374,13 @@
             <element signature="e#3453#3454#0" expanded="true" />
             <element signature="e#3488#3489#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="75" column="60" selection-start-line="74" selection-start-column="50" selection-end-line="75" selection-end-column="60" />
         </state>
       </provider>
     </entry>

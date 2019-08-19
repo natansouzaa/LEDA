@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="853d2f02-62cd-4e91-9c28-a0c8abb2158d" name="Default Changelist" comment="" />
+    <list default="true" id="853d2f02-62cd-4e91-9c28-a0c8abb2158d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R04-01-Rot-SelectionAndBinarySearch-environment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R05-01-Rot-Pilha-FilaCircular-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R05-01-Rot-Pilha-FilaCircular-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R06-01-Rot-Linked-list-abordagem-iterativa-environment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../R06-01-Rot-Linked-list-abordagem-iterativa-environment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="85" column="48" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+            <state relative-caret-position="586">
+              <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -54,11 +62,14 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/adt/linkedList/RecursiveDoubleLinkedListImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -68,6 +79,7 @@
     <option name="width" value="952" />
     <option name="height" value="1009" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -172,7 +184,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../R03-01-Rot-LinearSorting-Countingsort-environment" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../R08-01-Rot-TabelaHash-EndFechado-environment" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,7 +280,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,8 +311,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="85" column="48" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+        <state relative-caret-position="586">
+          <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
         </state>
       </provider>
     </entry>
